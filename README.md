@@ -1,3 +1,3 @@
 # Damn Vulnerable Defi Solutions
 
-Solutions are explained in their respective.js file. Muchas gracias to [@tinchoabbate](https://twitter.com/tinchoabbate) for these fun exercises!
+A thorough walkthrough of the solution for each challenge can be found their respective.js file. Muchas gracias to [@tinchoabbate](https://twitter.com/tinchoabbate) for these fun exercises!
